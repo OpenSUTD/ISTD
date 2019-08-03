@@ -1,4 +1,4 @@
-### istdcomm-throwaway-markdowns
+### istd-resources
 
 Currently it's to store markdowns that collate Q&A from students regarding ISTD things that are of interest to ISTD students. To add new questions you can raise a new issue, or contact me through Telegram (@angsty_duck).
 
@@ -9,7 +9,4 @@ Currently it's to store markdowns that collate Q&A from students regarding ISTD 
 
 
 
-Of course, contact me if my layout is unintuitive/suck so that I can make everything more legible for peeps. No point spending time on a repo where no one can benefit on it amirite
-
-
-
+Of course, contact me if my layout is unintuitive/suck so that I can make everything more legible for peeps. No point spending time on a repo where no one can benefit on it amirite heh
