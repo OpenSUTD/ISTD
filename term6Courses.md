@@ -6,11 +6,13 @@ Felice is still in discussion with the timetable committee to release the timeta
 
 ##### Which profs will be teaching for which mods, and what is the cap on student enrollment for each mods?
 
-![](./resource/term6Mods.png)
-
-
-
-
+| Term | Code | Module Name | Capacity | Faculty |
+| --- | --- | --- | --- | --- |
+| 6 | 01.112 | Machine Learning | 55 x 3 | Lu Wei (x2), Malika |
+| 6 | 50.012 | Networks | 60 | Bin Bin |
+| 6 | 50.043 | Database and Big Data | 60 | Ahn |
+| 6 | 50.042 | Foundations of Cyber Security | 60 | Zhaohui |
+| 6 | 50.038 | Computational Data Science | 60 x 2 | Dorien, Soujanya |
 
 Credits:
 
