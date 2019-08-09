@@ -14,6 +14,9 @@ Felice is still in discussion with the timetable committee to release the timeta
 | 6 | 50.042 | Foundations of Cyber Security | 60 | Zhaohui |
 | 6 | 50.038 | Computational Data Science | 60 x 2 | Dorien, Soujanya |
 
+For courses that are taught by multiple professors, each professor will be teaching the entire cohort for a segment of the term.
+
+
 Credits:
 
 ISTD staffs Felice and Irma are keeping in close contact with us to answer these questions. Big shout out to them!
