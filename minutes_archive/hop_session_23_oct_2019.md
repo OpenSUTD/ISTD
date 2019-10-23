@@ -19,7 +19,7 @@ Prior to the HoP session, HoP was provided with the [consolidated feedback](http
 
 ### Introduction to Algo 
 
-Course will have more advanced content added, with some simpler content being moved to Freshmore (Data-driven World).
+**[Update]** Course will have more advanced content added, with some simpler content being moved to Freshmore (Data-driven World).
 
 **[Feedback]** Algo homework is too easy, the difficulty gap with the quiz is too big
 
@@ -29,11 +29,11 @@ Course will have more advanced content added, with some simpler content being mo
 
 **[Feedback]** The workload is way too high for comp struct and it feels like the workload diverges from the learning objectives, especially the Mojo. Lucid has no proper documentation. Lucid is also not a transferrable skill anyway.
 
-**[Response]** Ideally it should be in verilog, but that would take too long. The idea is to practice low level concepts like adders. Lucid is more convenient to finish the project within the allocated time. Constraint is important as it helps to develop skill sets that can be applied outside.
+**[Response]** Ideally it should be in Verilog, but that would take too long. The idea is to practice low level concepts like adders. Lucid is more convenient to finish the project within the allocated time. Constraint is important as it helps to develop skill sets that can be applied outside. 
 
-**[Feedback]** Why does the project have to be from a completely new concept when we already practice these concepts in lab. Could the project be an extension of the lab instead? After finishing comp struct, it feels like we still don't understand any modern architecture. The soldering and lucid is not worth the tradeoff of having the awareness of current architecture. There doesn't need to be a physical project for it to be considered hands-on.
+**[Feedback]** Why does the project have to be from a completely new concept when we already practice these concepts in lab. Could the project be an extension of the lab instead? After finishing comp struct, it feels like we still don't understand any modern architecture. The soldering and Lucid is not worth the tradeoff of having the awareness of current architecture. There doesn't need to be a physical project for it to be considered hands-on. 
 
-**[Feedback]** The 2d tried to get us to optimise adders but they don't give us any reference architecture. The results of the competition is also not even shared after that.
+**[Feedback]** The 2D tried to get us to optimise adders but they don't give us any reference architecture. The results of the competition is also not even shared after that, so other students cannot learn from the winning entries.
 
 ## Term 5 Subjects
 
@@ -65,7 +65,7 @@ Course will have more advanced content added, with some simpler content being mo
 
 **[Feedback]** Scope might be to broad, touch and go on a few topics.
 
-**[Response]** Might have a data information retrival class to go more in depth. 
+**[Response]** Might have a data information retrieval or data-mining class to go more in depth. 
 
 **[Feedback]** The 3 hour lecture is too long. Can we split it into two?
 
@@ -73,7 +73,7 @@ Course will have more advanced content added, with some simpler content being mo
 
 ## Computer Engineering Track
 
-**[Response]** There will be a class on the more CS-side of robotics. There will also be an IOT class to work on IOT platforms to reinvent the Computer Engineering track. The trend in the industry is that companies no longer outsource IOT projects due to security issues. Profs Binbin and Wenchao are involved in helpint to plan the revised CE Track.
+**[Response]** There will be a class on the more CS-side of robotics, taught by Prof Malika. There will also be an IOT class to work on IOT platforms to reinvent the Computer Engineering track. The trend in the industry is that companies no longer outsource IOT projects due to security issues. Profs Binbin and Wenchao are involved in helpint to plan the revised CE Track.
 
 ## CS Foundation
 
