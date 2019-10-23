@@ -31,9 +31,9 @@ Prior to the HoP session, HoP was provided with the [consolidated feedback](http
 
 **[Response]** Ideally it should be in Verilog, but that would take too long. The idea is to practice low level concepts like adders. Lucid is more convenient to finish the project within the allocated time. Constraint is important as it helps to develop skill sets that can be applied outside. 
 
-**[Feedback]** Why does the project have to be from a completely new concept when we already practice these concepts in lab. Could the project be an extension of the lab instead? After finishing comp struct, it feels like we still don't understand any modern architecture. The soldering and Lucid is not worth the tradeoff of having the awareness of current architecture. There doesn't need to be a physical project for it to be considered hands-on. 
+**[Feedback]** Why does the project have to be from a completely new concept when we already practice these concepts in lab. Could the project be an extension of the lab instead? There doesn't need to be a physical project for it to be considered hands-on. After finishing comp struct, it feels like we still don't understand any modern computer architecture. Doing the arcade machine (lot of time soldering and figuring out Lucid) is not worth the tradeoff not covering additional content about computer architecture. There can be coverage/overview on modern computer architecture. 
 
-**[Feedback]** The 2D tried to get us to optimise adders but they don't give us any reference architecture. The results of the competition is also not even shared after that, so other students cannot learn from the winning entries.
+**[Feedback]** The 2D tried to get us to optimise adders but they don't give us any reference architecture. The results of the competition is also not shared after that, so other students cannot learn from the winning entries.
 
 ## Term 5 Subjects
 
@@ -93,7 +93,7 @@ Prior to the HoP session, HoP was provided with the [consolidated feedback](http
 
 **[Feedback]** It would be helpful if there was one pillar module before internship period.
 
-**[Response]** Freshmore year is going to be changed to have two software related classes.
+**[Response]** Freshmore year is going to be changed to have two software related classes. We might also cover version control during one of the Freshmore mods.
 
 ## Term 7/8 Issues
 
