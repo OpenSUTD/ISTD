@@ -11,4 +11,4 @@ ISTD Pillar Dialogue will be held once every term (as much as schedules permit).
 
 ## Past Pillar Dialogues
 
-* Information to be released
+* 23 October 2019 ([Minutes here](minutes_archive/hop_session_23_oct_2019.md))

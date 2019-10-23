@@ -2,17 +2,22 @@
 
 The ISTD Student Board collaborates with the ISTD faculty, staff, 3DC (Developer Student Club) and external organisations to improve the learning experience of ISTD students. The Student Board consists of both batches of current ISTD students (Sophomore/Junior and Junior/Senior). 
 
-**Upcoming Events**
-
-* Head of Pillar Dialogue Session (23 Oct) - submit questions [here](https://forms.office.com/Pages/ResponsePage.aspx?id=drd2NJDpck-5UGJImDFiPZ122bsPTrJCpFEQrlYhVUJUOUdJQjEzMUdPTldUT1haQUZESUxXQUNJQS4u)
-  
-  2-3pm : Term 6 students
-  
-  4-5pm : Term 4 students
-  
-  After the HoP session is over, we will also host a permanent feedback section here to collect feedback at any time of the year. 
-
 ## Current Initiatives
+
+### Pillar Dialogue
+
+ISTD Pillar Dialogue will be held once every term (as much as schedules permit).
+
+**Format** (subject to changes)
+
+1. Survey: Salt Mine (opening soon for the next Pillar Dialogue)
+2. Survey: Vote on Key Topics
+3. Pillar Dialogue session
+4. Follow-up email to student body
+
+**Past Pillar Dialogues**
+
+* 23 October 2019 ([minutes](minutes_archive/hop_session_23_oct_2019.md))
 
 ### I3 Lab Furnishing 
 
