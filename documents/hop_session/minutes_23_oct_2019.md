@@ -21,13 +21,13 @@ Prior to the HoP session, HoP was provided with the [consolidated feedback](http
 
 **[Update]** Course will have more advanced content added, with some simpler content being moved to Freshmore (Data-driven World).
 
-**[Feedback]** Algo homework is too easy, the difficulty gap with the quiz is too big
+**[Feedback]** Algo homework is too easy, the difficulty gap with the quiz is too big. 
 
 **[Response]** Will work with the lecturers mitigate the issue.
 
 ### Computational Structures (CompStruct)
 
-**[Feedback]** The workload is way too high for comp struct and it feels like the workload diverges from the learning objectives, especially the Mojo. Lucid has no proper documentation. Lucid is also not a transferrable skill anyway.
+**[Feedback]** The workload is way too high for comp struct and it feels like the workload (such as 1D/Mojo) diverges from the learning objectives. Lucid has no proper documentation. Lucid is also not a transferrable skill.
 
 **[Response]** Ideally it should be in Verilog, but that would take too long. The idea is to practice low level concepts like adders. Lucid is more convenient to finish the project within the allocated time. Constraint is important as it helps to develop skill sets that can be applied outside. 
 
@@ -85,7 +85,7 @@ Prior to the HoP session, HoP was provided with the [consolidated feedback](http
 
 **[Feedback]** Explore the idea of half credits module like Bio/Chem in Term 1 to cover the other mods such as discrete math. Elective style of combining half modules.
 
-**[Response]** Maybe can try out in Term 5, but would need to see the response first. Can also maybe allow Poly students to
+**[Response]** Maybe can try out in Term 5, since there is a free slot for subject due to Prob&Stats being moved to Freshmore, but would need to see the response first. Maybe we can also allow Poly students to take Term 5 ahead of time as well (before Freshmore) if there are only two mods that term. 
 
 **[Feedback]** Proper introduction to C can also be included in the half modules. 2 hours is too little time for C, and 14 weeks might be overkill for one language.
 
@@ -109,4 +109,10 @@ The course focus is on GPGPU parallel programming, and then using the concepts l
 
 ## Staffing Updates
 
-One vision prof coming in end of the year, speech next year, security/software some time after that. Prof Peng Song to take the Graphics course.
+**Incoming Profs**
+
+* Prof Peng Song, to take the Graphics course.
+* 1x prof that specialises in computer vision (end of the year)
+* 1x prof that specialises in speech recognition (next year)
+* Other profs that specialise in security and software (eventually)
+

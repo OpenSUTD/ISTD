@@ -17,7 +17,7 @@ ISTD Pillar Dialogue will be held once every term (as much as schedules permit).
 
 **Past Pillar Dialogues**
 
-* 23 October 2019 ([minutes](minutes_archive/hop_session_23_oct_2019.md))
+* 23 October 2019 ([minutes](documents/hop_session/minutes_23_oct_2019.md))
 
 ### I3 Lab Furnishing 
 
