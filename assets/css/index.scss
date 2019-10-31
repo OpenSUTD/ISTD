@@ -1,0 +1,78 @@
+---
+---
+
+.init_element {
+  width: 100%;
+  display: inline-block;
+  transition: 0.3s;
+  @media (max-width: 400px){
+    display:block;
+    text-align: center;
+  }
+}
+
+.init_element:nth-child(odd){
+  background-color: #7de8bb;
+
+}
+
+.init_element:nth-child(even){
+  background-color: #7dc5e8;
+}
+
+.init_element:hover{
+  background-color: #e87d7d;
+}
+
+.init_element > a {
+  color: inherit;
+}
+
+.init_left {
+  height: auto;
+  text-align: center;
+  @media (max-width: 400px){
+    width: 100%;
+    display: block;
+  }
+  @media (min-width: 400px){
+    width: 30%;
+    display: inline-block;
+  }
+}
+
+.init_left i {
+  width: 100%;
+  height: auto;
+  font-size: 5rem;
+  @media (min-width: 400px){
+    text-align: center;
+  }
+  @media (max-width: 400px){
+    clear: both;
+    text-align: inherit;
+  }
+}
+
+.init_right {
+  @media (min-width: 400px){
+    display: block;
+    width: 70%;
+    height: auto;
+    float: right;
+  }
+  @media (max-width: 400px){
+    display: inline-block;
+  }
+}
+
+.init_right h3 {
+  font-size: 2em;
+  color: white;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.init_right p {
+  margin: 0;
+}
