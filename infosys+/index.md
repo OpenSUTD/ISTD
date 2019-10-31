@@ -35,7 +35,7 @@ Due to manpower constraints, we can only accommodate 30 participants per class. 
 
 ### Advanced Android Components
 This is a advanced android lesson series which touches on and demonstrates more features you can do with Android.
-Fragments and CustomView provide new ways to interact with the UI, and Sensors and Query provide your app with new information that you can use in your projects!
+Fragments and Custom Views provide new ways to interact with the UI, and Sensors and Query provide your app with new information that you can use in your projects!
 
 {:.timeline}
 - __Fragments and Fragment Communication__{:.title}
@@ -46,12 +46,12 @@ Fragments and CustomView provide new ways to interact with the UI, and Sensors a
   - {:.desc} Views make up the individual components you see in your application's screen. This goes through the additional views not found in class that you might find useful.
 - __Sensors and Query API__{:.title}
   - {:.date} 26 Nov
-  - {:.desc} Do you know your smartphone contains well over a dozen sensors? Learn how to access these sensor data such as GPS, compass and gyroscope to add new dimensions to your user experience.
+  - {:.desc} Did you know your smartphone contains well over a dozen sensors? Learn how to access these sensor data such as GPS, compass and gyroscope to add new dimensions to your user experience.
 - __App Widgets__{:.title}
   - {:.date} 3 Dec
   - {:.desc} App widgets are like "mini applications" that go onto the user's home screen, something like the music player widget. Learn to create a custom widget for your application that your user can install onto their home screen.
 
-Who should attend this class:
+#### Who should attend this class
 - Students interested in front-end mobile application development
 - Students whose projects involve a heavy front-end user experience
 
@@ -59,7 +59,7 @@ Who should attend this class:
 <div class="profile_img_container"><img class="profile_img" src="img/caleb.jpg"></div>
 
 {:.profile_desc}
-Caleb is the president of the Digital Design and Development Club, and SUTD's Google Student Developers Representative. He has a passion in building mobile applications to deliver beautiful user experiences.
+[Caleb](https://opensutd.org/#people-caleb) is the president of the Digital Design and Development Club, and SUTD's Google Student Developers Representative. He has a passion in building mobile applications to deliver beautiful user experiences.
 
 
 ### REST APIs & Databases
@@ -82,20 +82,20 @@ This series introduces the concept of REST APIs, the backbone of many Internet-c
   - {:.date} 5 Dec <br> & <br> 12 Dec (TBC)
   - {:.desc} As our data structures become more complex, we can no longer use simple key-value stores. A relational database is an online Excel spreadsheet on crack – very powerful, but significantly harder to learn and use. We learn basic database design techniques and how to interface them with an application.
 
-Who should attend this class:
+#### Who should attend this class
   - Students interested in back-end & cloud development
-  - Students whose projects largely involve computations and services on the cloud than on the end user device
+  - Students whose projects involve more computations and services on the cloud than on the end user device
 
-#### About the course lead
+#### About the class lead
 <div class="profile_img_container"><img class="profile_img" src="img/chester.jpg"></div>
 
 {:.profile_desc}
-Chester is the Vice President of the Digital Design and Development club and also the kickstarter of Infosys+. He is primarily interested in cloud development and actively contributes to open source software and toolchains on Github.
+[Chester](https://opensutd.org/#people-chester) is the Vice President of the Digital Design and Development club and also the kickstarter of Infosys+. He is primarily interested in cloud development and actively contributes to open source software and toolchains on Github.
 
 ## We need help!
-Thanks to the support of ISTD, we can give out student helper rates for students who are interested in acting as TA's for these lessons. If you are interested, please email Chester at chester_koh[at]mymail.sutd.edu.sg for with your details ASAP.
+Thanks to the support of ISTD, we can give out student helper rates for students who are interested in acting as TA's for these lessons. If you are interested, please email Chester at chester_koh[at]mymail.sutd.edu.sg with your details ASAP.
 
 ## Behind The Scenes
 The InfoSys+ programme was first initiated by Chester, on behalf of 3DC and OpenSUTD, during summer. He now works closely with the ISTD faculty, OpenSUTD and the students to improve student experience in ISTD.
 
-As with OpenSUTD's operating philosophies, everything we do is open and transparent. Take a look at the pitch slides we used to convince the ISTD faculty to support this programme [here](https://sutdapac-my.sharepoint.com/:b:/g/personal/chester_koh_mymail_sutd_edu_sg/EX1ZzjwGb7BGiKljq31JlrUBkQbvrFYw5i3M8_MfmupTbA?e=0HPNcQ).
+As with OpenSUTD's operating philosophies, everything we do is open and transparent. Take a look at the original pitch slides we used to convince the ISTD faculty to support this programme [here](https://sutdapac-my.sharepoint.com/:b:/g/personal/chester_koh_mymail_sutd_edu_sg/EX1ZzjwGb7BGiKljq31JlrUBkQbvrFYw5i3M8_MfmupTbA?e=0HPNcQ).
