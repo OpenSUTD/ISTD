@@ -1,46 +1,47 @@
-# ISTD Student Board
+# ISTD Student Board Website
 
-The ISTD Student Board collaborates with the ISTD faculty, staff, 3DC (Developer Student Club) and external organisations to improve the learning experience of ISTD students. The Student Board consists of both batches of current ISTD students (Sophomore/Junior and Junior/Senior). 
+This website aims to document student initiatives and resources for the ISTD student board. Adding new pages is easy, just follow this guide!
 
-## Current Initiatives
 
-### Pillar Dialogue
+## Contributing
 
-ISTD Pillar Dialogue will be held once every term (as much as schedules permit).
+If you found a mistake in the site, please [raise an issue on Github](https://github.com/OpenSUTD/istd/issues).
 
-**Format** (subject to changes)
+If you wish to add new pages, or change the look of the site, please raise PR with the following guide.
 
-1. Survey: Salt Mine (opening soon for the next Pillar Dialogue)
-2. Survey: Vote on Key Topics
-3. Pillar Dialogue session
-4. Follow-up email to student body
+## Adding content-only pages with Markdown
 
-**Past Pillar Dialogues**
+With the help of [Jekyll](https://jekyllrb.com/), adding new pages is as simple as creating a new Markdown file.
 
-* 23 October 2019 ([minutes](documents/hop_session/minutes_23_oct_2019.md))
+What to do:
+- Fork this repository.
+- Create a new markdown file with the appropriate file name and path.
+  - If you create a file `mypage.md` in the _root_ directory of this project, your page will be accessible at `istd.opensutd.org/mypage.html`
+  - If you create a file named `mystuff/index.md`, your page will be accessible at `istd.opensutd.org/mystuff`
+  - If you create a file named `mystuff/somestuff.md`, your page will be accessible at `istd.opensutd.org/mystuff/somestuff.html`.
+- Open a Pull Request to merge your changes into this main repository. We will review your changes and merge if it is appropiate.
 
-### I3 Lab Furnishing 
+Note that this allows you to only add content-only pages, with little to no control over the rest of the page (header, footer) but this should suffice for most use cases.
 
-The I3 Lab is conceptualised to serve the needs of the students by providing resources, such as physical space and hosting (VM) services for student projects. It will also serve as an to showcase student projects and conduct outreach.
+## Previewing your changes before you submit your PR
 
-We are looking for additional students to help steer the furnishing for the lab and assist with two simple "seed" projects to be showcased in the lab:
+It is highly recommended to develop locally on your computer to preview the changes before you submit your PR to us. To do so:
 
-* **IoT Sensor Pod + Live Dashboard**
-  
-  Build a live web dashboard to showcase sensor readings from across the school, relayed via the SigFox platform
+- Follow the Ruby + RubyGems + Jekyll install guide [here](https://jekyllrb.com/docs/installation/)
+- Install [Bundler](https://bundler.io/) and add to PATH
+- Clone _your fork of the repository_ to your computer
+- `bundler install` in the root of the project.
 
-* **Turtlebot Remote Operation + Computer Vision demo**
+## Adding custom CSS to your page
 
-  Build a demo setup to be used during outreach or open house for visitors to drive the Turtlebot and see Computer Vision in action (e.g. object detection)
-  
-If you're interested to participate, please contact `timothy_liu[at]mymail.sutd.edu.sg`.
+We made 3 ways to include CSS using [front matter]() on your markdown file:
 
-### SUTD Compute JupyterHub
+- "Global" CSS: Use the `css:` front matter in your markdown file to include a list of files from the `assets/css` directory, without the file extensions. This directory is usually reserved for site-wide stylesheets.
+- "Local" CSS: Use the `local_css:` front matter to include a list of files from the same directory as your page. Usually used if you need "one-off" stylesheets.
+- Remote CSS: Use the `remote_css` to load remote stylesheets served over a CDN, such as Font Awesome.
 
-ISTD Student Board is working with Temasek Labs to host a small GPU cluster of 10+ GPUs. We have run some smaller scale proof of concepts previously but are now working to set up a "proper" cluster that will serve ISTD students.
+You can create normal CSS files, or use SCSS. Jekyll automatically compiles `.scss` files **that begin with a front matter declaration**.
 
-If you're interested to participate, please contact `timothy_liu[at]mymail.sutd.edu.sg`.
 
-## Useful Resources
-
-* [Term 6 Course Info](term_6_course_info.md)
+### Totally custom pages
+If you need a totally custom page, just upload the full .HTML file. It will not inherit any styles or templates.
