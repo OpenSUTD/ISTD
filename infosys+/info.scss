@@ -1,0 +1,131 @@
+---
+---
+
+
+img{
+  display:inline-block;
+  max-width: 300px;
+  height: auto;
+}
+
+/* The actual timeline (the vertical ruler) */
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: block;
+}
+
+/* The actual timeline (the vertical ruler) */
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: #159957;
+  top: 0;
+  bottom: 0;
+  margin-left: -3px;
+}
+
+.timeline > li {
+  list-style: none;
+  margin-left: 5%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  background-color: #ececec;
+  border-radius: 5%;
+  @media(max-width: 400px){
+    min-height: 30vw;
+  }
+}
+
+.timeline .title{
+  font-size: 1.25rem;
+  padding: 2%;
+  display: block;
+  @media(max-width:400px){
+    font-size: 1.15rem;
+  }
+}
+
+/* The circles on the timeline */
+.timeline > li::before {
+  content: '';
+  position: absolute;
+  transform: translate(calc(-50% + 1px), 0);
+  margin-left: -5%;
+  width: 25px;
+  height: 25px;
+  background-color: white;
+  border: 4px solid #FF9F55;
+  border-radius: 50%;
+  z-index: 1;
+  @media(max-width:400px){
+    transform: translate(-50%, 0);
+    width: 15px;
+    height: 15px;
+  }
+}
+
+.timeline > li li {
+  font-size: initial;
+  list-style: none;
+}
+
+.desc{
+  padding: 2%;
+}
+
+.date {
+  position: absolute;
+  left: 0%;
+  transform: translate(calc(-100% - 5px), 0);
+  z-index: 9001;
+  background-color: #9bfaff;
+  color: black;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  display: block;
+  text-align: center;
+  border: 2px solid #159957;
+  font-weight: bold;
+  @media(max-width:400px){
+    font-size: 1.25rem;
+    transform: translate(-20%,20%);
+    display: inline-block;
+    width: 15vw;
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+}
+
+.profile_img {
+  height: auto;
+  border-radius: 50%;
+  @media(min-width: 400px){
+    width: 15%;
+    display: inline-block;
+  }
+  @media(max-width: 400px){
+    width: 25%;
+    display: block;
+  }
+}
+
+.profile_img_container{
+  @media(min-width: 400px){
+    display: inline;
+  }
+  @media(max-width: 400px){
+    display: flex;
+    justify-content: center;
+  }
+}
+
+.profile_desc {
+  @media(min-width: 400px){
+    display: inline-block;
+    width: 70%;
+  }
+  padding: 2%;
+}
