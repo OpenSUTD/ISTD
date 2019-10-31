@@ -4,11 +4,11 @@
 @import "{{ site.theme }}";
 
 header.page-header {
-  @media (min-width: 400px){
+  @media (min-width: 450px){
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/img/desktop_banner.png'), linear-gradient(120deg, #155799, #159957);
     background-size: contain, contain, cover;
   }
-  @media (max-width: 400px){
+  @media (max-width: 450px){
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/img/mobile_banner.png'), linear-gradient(120deg, #155799, #159957);
     background-size: contain, cover, cover;
   }
