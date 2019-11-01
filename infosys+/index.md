@@ -81,6 +81,7 @@ This series introduces the concept of REST APIs, the backbone of many Internet-c
 - __(Bonus: ) Relational Database Theory__{:.title}
   - {:.date} 5 Dec <br> & <br> 12 Dec (TBC)
   - {:.desc} As our data structures become more complex, we can no longer use simple key-value stores. A relational database is an online Excel spreadsheet on crack – very powerful, but significantly harder to learn and use. We learn basic database design techniques and how to interface them with an application.
+  - {:.desc} **Tentative:** these dates occur after the date of the 1D checkoff (2 Dec), so these lessons are really just for fun for those who are interested. Will run depending on student interest and reception.
 
 #### Who should attend this class
   - Students interested in back-end & cloud development
