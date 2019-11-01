@@ -41,14 +41,11 @@ Fragments and Custom Views provide new ways to interact with the UI, and Sensors
 - __Fragments and Fragment Communication__{:.title}
   - {:.date} 12 Nov
   - {:.desc} Fragments are an alternative to views that can provide re-usable pieces of user interfaces present throughout your Android application. Find out how to use this to your advantage to minimise copy-pasting and encourage clean code.
-- __Custom Views__{:.title}
-  - {:.date} 19 Nov
-  - {:.desc} Views make up the individual components you see in your application's screen. This goes through the additional views not found in class that you might find useful.
 - __Sensors and Query API__{:.title}
-  - {:.date} 26 Nov
+  - {:.date} 19 Nov
   - {:.desc} Did you know your smartphone contains well over a dozen sensors? Learn how to access these sensor data such as GPS, compass and gyroscope to add new dimensions to your user experience.
 - __App Widgets__{:.title}
-  - {:.date} 3 Dec
+  - {:.date} 26 Nov
   - {:.desc} App widgets are like "mini applications" that go onto the user's home screen, something like the music player widget. Learn to create a custom widget for your application that your user can install onto their home screen.
 
 #### Who should attend this class
