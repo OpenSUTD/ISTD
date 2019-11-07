@@ -78,6 +78,7 @@ Location: [Think Tank 25, 2.504](https://sutdmap.appspot.com/?id=zhRU), 7pm
 -   **Introduction to REST: Making HTTP calls in Java**{:.title}
     -   {:.date} 7 Nov
     -   {:.desc} Learn the basics of HTTP and how to communicate in HTTP in plain Java. At the end of this session, you'll make a Java application that tells you the current live weather.
+    -   {:.desc} [Lesson 1 Materials here](https://sutdapac-my.sharepoint.com/:f:/g/personal/chester_koh_mymail_sutd_edu_sg/Evfc-mK-fENGg7acenxXen0BDwLL2t9R06VLCfLgBwwsvg?e=CefRej)
 -   **Cloud Functions: Introduction to Microsoft Azure Cloud**{:.title}
     -   {:.date} 14 Nov
     -   {:.desc} Find out how to run Java code "in the cloud". Building upon the knowledge of the previous session, learn how to call your own API from your Android application.
