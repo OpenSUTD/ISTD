@@ -48,6 +48,7 @@ Location: [Think Tank 25, 2.504](https://sutdmap.appspot.com/?id=zhRU), 7pm
 -   **Fragments and Fragment Communication**{:.title}
     -   {:.date} 12 Nov
     -   {:.desc} Fragments are an alternative to views that can provide re-usable pieces of user interfaces present throughout your Android application. Find out how to use this to your advantage to minimise copy-pasting and encourage clean code.
+    -   {:.desc} [Lesson 1 Materials here](https://kaleb-is-caleb.gitbook.io/infosys/)
 -   **Sensors and Query API**{:.title}
     -   {:.date} 19 Nov
     -   {:.desc} Did you know your smartphone contains well over a dozen sensors? Learn how to access these sensor data such as GPS, compass and gyroscope to add new dimensions to your user experience.
