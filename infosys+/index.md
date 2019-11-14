@@ -80,9 +80,10 @@ Location: [Think Tank 25, 2.504](https://sutdmap.appspot.com/?id=zhRU), 7pm
     -   {:.date} 7 Nov
     -   {:.desc} Learn the basics of HTTP and how to communicate in HTTP in plain Java. At the end of this session, you'll make a Java application that tells you the current live weather.
     -   {:.desc} [Lesson 1 Materials here](https://sutdapac-my.sharepoint.com/:f:/g/personal/chester_koh_mymail_sutd_edu_sg/Evfc-mK-fENGg7acenxXen0BDwLL2t9R06VLCfLgBwwsvg?e=CefRej)
--   **Cloud Functions: Introduction to Microsoft Azure Cloud**{:.title}
+-   **APIs & Basic Storage: Introduction to AWS*{:.title}
     -   {:.date} 14 Nov
-    -   {:.desc} Find out how to run Java code "in the cloud". Building upon the knowledge of the previous session, learn how to call your own API from your Android application.
+    -   {:.desc} Find out how to run code "in the cloud". Building upon the knowledge of the previous session, learn how to call your own API from your Android application. Make a fake SUTDeets app today!
+    -   {:.desc} [Lesson 2 Materials here](https://sutdapac-my.sharepoint.com/:f:/g/personal/chester_koh_mymail_sutd_edu_sg/ErhGVDPkwbFCtBiYEvvLm-8BSxXXsTr7Z2kDtKcT4v_Nag?e=KtitIO)
 -   **Leveraging Cloud Providers: Computer Vision Example**{:.title}
     -   {:.date} 21 Nov
     -   {:.desc} Now that you have code that lives on the cloud, you can do anything. Learn how to integrate Azure's AI services to add Computer Vision capabilities to your application.
