@@ -5,7 +5,7 @@ remote_css: ["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all
 
 # ISTD Student Board
 
-The ISTD Student Board collaborates with the ISTD faculty, staff, 3DC (Developer Student Club) and external organisations to improve the learning experience of ISTD students. The Student Board consists of students across all batches in ISTD.
+The ISTD Student Board collaborates with the ISTD faculty, staff, 3DC (Developer Student Club) and external organisations to improve the learning experience of ISTD students. The Student Board consists of students across all current batches in ISTD.
 
 This website aims to keep all ISTD students updated of current ongoing student initiatives, as well as act as a central place for student-maintained resources to make life in ISTD easier.
 

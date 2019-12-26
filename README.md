@@ -2,7 +2,6 @@
 
 This website aims to document student initiatives and resources for the ISTD student board. Adding new pages is easy, just follow this guide!
 
-
 ## Contributing
 
 If you found a mistake in the site, please [raise an issue on Github](https://github.com/OpenSUTD/istd/issues).
