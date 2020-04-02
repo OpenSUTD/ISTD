@@ -1,4 +1,4 @@
-# HoP Session Minutes (20/03/20)
+# HoP Session Minutes (20/03/20) – Term 5/7 2020
 
 Prior to the HoP session, HoP was provided with the [consolidated feedback](https://docs.google.com/document/d/19rx-gyVJbjUMfDQTKoaeG-OFC9StHN--TJaX7gQ7HQc/edit?usp=sharing) from students, collected by the ISTD Student Board.
 
