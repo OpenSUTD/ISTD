@@ -2,7 +2,7 @@
 
 ##### Will the timetable committee release the timetable for ISTD mods?
 
-Felice is still in discussion with the timetable committee to release the timetable earlier, so until we receive a fixed date, we can roughly expect this timetable to be released one week before the mod bidding itself (UPDATE: Expect the time table to be released on 6th Sept on myPortal). But just a disclaimer: as the timetable is created in consideration of the needs of all stakeholders (the student survey we've received, and the faculties that will be teaching), the process of developing the timetable is a long one, and it's creation is hence considered finalized.
+Still in discussion with the timetable committee to release the timetable earlier, so until we receive a fixed date, we can roughly expect this timetable to be released one week before the mod bidding itself (UPDATE: Expect the time table to be released on 6th Sept on myPortal). But just a disclaimer: as the timetable is created in consideration of the needs of all stakeholders (the student survey we've received, and the faculties that will be teaching), the process of developing the timetable is a long one, and it's creation is hence considered finalized.
 
 ##### Which profs will be teaching for which mods, and what is the cap on student enrollment for each mods?
 
@@ -15,8 +15,3 @@ Felice is still in discussion with the timetable committee to release the timeta
 | 6 | 50.038 | Computational Data Science | 60 x 2 | Dorien, Soujanya |
 
 For courses that are taught by multiple professors, each professor will be teaching the entire cohort for a segment of the term.
-
-
-Credits:
-
-ISTD staffs Felice and Irma are keeping in close contact with us to answer these questions. Big shout out to them!
