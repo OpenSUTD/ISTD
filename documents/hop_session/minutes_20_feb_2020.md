@@ -14,12 +14,12 @@ Prior to the HoP session, HoP was provided with the [consolidated feedback](http
  - [Matthieu De Mari](https://istd.sutd.edu.sg/people/faculty/matthieu-de-mari) (currently a Lecturer)
  - [Berrak Sisman](https://istd.sutd.edu.sg/people/faculty/berrak-sisman) (Speech, Spoken Language Processing) - just joined
 
-### Interviewing
+### Interviewing new Faculty
 
-- Vision for Healthcare (Stanford Prof)
-- AI - Reinforcement Learning (NYU Prof)
-- Hardware (NUS Prof) x 2 (Memory Management, Computer Engineering, Computational Structures Enhancement)
-- Network on Chips (NUS Prof) (Expected to come this year)
+- Vision for Healthcare
+- AI - Reinforcement Learning
+- Hardware x 2 (Memory Management, Computer Engineering, Computational Structures Enhancement)
+- Network on Chips (Expected to come this year)
 - Lecturer for Data Mining module
 
 ## New Modules
@@ -112,19 +112,12 @@ Spoken Language Processing (2022) (Berrak)
 
 *Follow up*
 
-- Due to mid-term survey, Prof Nat removed her summary notes from eDimension so as to prevent students from being obliged to read and memorise all her notes. Her notes are still available on request
-- Prof Nat mentioned that the take-home quizzes will be longer so as to give us more practice
+- Due to mid-term survey, prof removed her summary notes from eDimension so as to prevent students from being obliged to read and memorise all her notes. Her notes are still available on request
+- Prof mentioned that the take-home quizzes will be longer so as to give us more practice
 
 **Network Security**
 
-- Prof cannot communicate. There is too much of a communication barrier
-- No access to the textbook which the instructor is referring to
-- Lab content is not good
-- Papers are not being marked properly
-
-*Response*
-
-- The prof will not teach Network Security anymore. NetSec will be taught by another prof in the future
+- Feedback given on the Prof. HoP advised on the actions taken to address concerns.
 
 **Deep Learning**
 
@@ -140,7 +133,7 @@ Spoken Language Processing (2022) (Berrak)
 
 - Profs cannot deliver content effectively. Feels like they're just reading off the slides
 - More in-class exercises/actual implementation of the algorithms
-- Both Prof Ernest and Prof Ioannis needs improvement in how they deliver their content. Students prefer the "Oka-style" of teaching similar to Digital World
+- Profs needs improvement in how they deliver their content as students prefer the teaching similar what they experienced in Digital World
 - Suggested to use online judges such as HackerRank/LeetCode as practical homework
 
 *Response*
