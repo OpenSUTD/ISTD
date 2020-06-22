@@ -73,7 +73,7 @@ Prior to the HoP session, HoP was provided with the [consolidated feedback](http
 
 ## Computer Engineering Track
 
-**[Response]** There will be a class on the more CS-side of robotics, taught by Prof Malika. There will also be an IOT class to work on IOT platforms to reinvent the Computer Engineering track. The trend in the industry is that companies no longer outsource IOT projects due to security issues. Profs Binbin and Wenchao are involved in helpint to plan the revised CE Track.
+**[Response]** There will be a class on the more CS-side of robotics, taught by Prof Malika. There will also be an IOT class to work on IOT platforms to reinvent the Computer Engineering track. The trend in the industry is that companies no longer outsource IOT projects due to security issues. Profs Binbin and Wenchao are involved in helping to plan the revised CE Track.
 
 ## CS Foundation
 
