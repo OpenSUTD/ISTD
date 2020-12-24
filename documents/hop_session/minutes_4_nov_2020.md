@@ -97,7 +97,7 @@ Prior to the HoP session, HoP was provided with the [consolidated feedback](http
 
 ## Other stuff
 
-**Pilar Name**
+**Pillar Name**
 - Some students asked why not Computer Science and Design
   - Differentiation from other CS schools
   - Possible accreditation requirements
