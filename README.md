@@ -4,7 +4,7 @@ This website aims to document student initiatives and resources for the ISTD stu
 
 ## Contributing
 
-If you found a mistake in the site, please [raise an issue on Github](https://github.com/OpenSUTD/istd/issues).
+If you found a mistake in the site, please [raise an issue on Github](https://github.com/OpenSUTD/ISTD/issues).
 
 If you wish to add new pages, or change the look of the site, please raise PR with the following guide.
 
