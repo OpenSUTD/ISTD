@@ -9,13 +9,13 @@ The ISTD Student Board collaborates with the ISTD faculty, staff, 3DC (Developer
 
 This website aims to keep all ISTD students updated of current ongoing student initiatives, as well as act as a central place for student-maintained resources to make life in ISTD easier.
 
-This student board web portal is completely open source, supported by the [OpenSUTD](https://opensutd.org) movement, and **anyone** can contribute their own pages to this domain. Find out more [here.](https://github.com/OpenSUTD/istd)
+This student board web portal is completely open source, supported by the [OpenSUTD](https://opensutd.org) movement, and **anyone** can contribute their own pages to this domain. Find out more [here](https://github.com/OpenSUTD/ISTD).
 
 ## Current Initiatives
 
 <div class="init_grid">
   <div class="init_element">
-    <a href="/infosys+">
+    <a href="archives/infosys+">
       <div class="init_left">
         <i class="fas fa-plus-square"></i>
       </div>
@@ -26,7 +26,7 @@ This student board web portal is completely open source, supported by the [OpenS
     </a>
   </div>
   <div class="init_element">
-    <a href="/dialogue.html">
+    <a href="dialogue.html">
       <div class="init_left">
         <i class="fas fa-comments"></i>
       </div>
