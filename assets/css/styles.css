@@ -10313,6 +10313,154 @@ body {
   background-attachment: scroll;
   background-size: cover;
 }
+@media (max-width: 70px) {
+  .about-section {
+    min-height: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #000000 96%, rgba(0, 0, 0, 0) 100%), url("../img/abt_page.jpg");
+    background-position: center 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: contain;
+  }
+}
+@media (min-width: 70px) and (max-width: 100px) {
+  .about-section {
+    min-height: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #000000 94%, rgba(0, 0, 0, 0) 100%), url("../img/abt_page.jpg");
+    background-position: center 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: contain;
+  }
+}
+@media (min-width: 85px) and (max-width: 100px) {
+  .about-section {
+    min-height: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #000000 93%, rgba(0, 0, 0, 0) 100%), url("../img/abt_page.jpg");
+    background-position: center 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: contain;
+  }
+}
+@media (min-width: 100px) and (max-width: 125px) {
+  .about-section {
+    min-height: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #000000 90%, rgba(0, 0, 0, 0) 100%), url("../img/abt_page.jpg");
+    background-position: center 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: contain;
+  }
+}
+@media (min-width: 125px) and (max-width: 150px) {
+  .about-section {
+    min-height: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #000000 85%, rgba(0, 0, 0, 0) 100%), url("../img/abt_page.jpg");
+    background-position: center 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: contain;
+  }
+}
+@media (min-width: 150px) and (max-width: 190px) {
+  .about-section {
+    min-height: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #000000 80%, rgba(0, 0, 0, 0) 98.3%), url("../img/abt_page.jpg");
+    background-position: center 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: contain;
+  }
+}
+@media (min-width: 190px) and (max-width: 220px) {
+  .about-section {
+    min-height: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #000000 70%, rgba(0, 0, 0, 0) 88.3%), url("../img/abt_page.jpg");
+    background-position: center 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: contain;
+  }
+}
+@media (min-width: 220px) and (max-width: 250px) {
+  .about-section {
+    min-height: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #000000 60%, rgba(0, 0, 0, 0) 78.3%), url("../img/abt_page.jpg");
+    background-position: center 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: contain;
+  }
+}
+@media (min-width: 250px) and (max-width: 280px) {
+  .about-section {
+    min-height: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #000000 50%, rgba(0, 0, 0, 0) 68.3%), url("../img/abt_page.jpg");
+    background-position: center 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: contain;
+  }
+}
+@media (min-width: 280px) and (max-width: 350px) {
+  .about-section {
+    min-height: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #000000 40%, rgba(0, 0, 0, 0) 58.3%), url("../img/abt_page.jpg");
+    background-position: center 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: contain;
+  }
+}
+@media (min-width: 350px) and (max-width: 475px) {
+  .about-section {
+    min-height: 0;
+    padding: 5rem 0;
+    background: linear-gradient(to bottom, #000000 40%, rgba(0, 0, 0, 0) 58.3%), url("../img/abt_page.jpg");
+    background-position: center 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: contain;
+  }
+}
+@media (min-width: 475px) and (max-width: 640px) {
+  .about-section {
+    min-height: 0;
+    padding: 10rem 0;
+    background: linear-gradient(to bottom, #000000 40%, rgba(0, 0, 0, 0) 58.3%), url("../img/abt_page.jpg");
+    background-position: center 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: contain;
+  }
+}
+@media (min-width: 640px) and (max-width: 925px) {
+  .about-section {
+    min-height: 0;
+    background: linear-gradient(to bottom, #000000 40%, rgba(0, 0, 0, 0) 58.3%), url("../img/abt_page.jpg");
+    background-position: center 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: contain;
+  }
+}
+@media (min-width: 925px) and (max-width: 1385px) {
+  .about-section {
+    background-position: center 100%;
+    background-size: contain;
+  }
+}
 @media (min-width: 2560px) {
   .about-section {
     min-height: 100rem;
