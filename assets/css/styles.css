@@ -6028,6 +6028,14 @@ a.close.disabled {
   }
 }
 
+.carousel-item-left-side {
+  padding-right: 0;
+}
+
+.carousel-item-right-side {
+  padding-left: 0;
+}
+
 .carousel-control-prev,
 .carousel-control-next {
   position: absolute;
