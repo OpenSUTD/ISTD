@@ -10461,6 +10461,7 @@ body {
   text-align: right;
   width: 100%;
   padding-bottom: 1rem;
+  text-decoration-skip: none;
 }
 
 .h7-bottom a {
@@ -10468,6 +10469,11 @@ body {
   font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   color: #547977;
   text-decoration: underline;
+}
+
+.h7-bottom svg {
+  color: #547977;
+  height: 0.8rem;
 }
 
 .contact-section {
@@ -10491,10 +10497,11 @@ body {
 
 .contact-section h1 {
   text-align: center;
+  width: 15rem;
 }
 
 .contact-section img {
-  padding: 0rem 1.5rem;
+  padding: 0rem 1.25rem;
   height: 3rem;
 }
 
@@ -10502,7 +10509,7 @@ body {
   border-color: #547977;
   border-width: 0.25rem;
   margin-top: 1.5rem;
-  width: 75%;
+  width: 13.25rem;
 }
 
 .contact-section h4 {
