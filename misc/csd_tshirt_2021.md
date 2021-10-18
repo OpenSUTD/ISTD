@@ -21,7 +21,7 @@ PS: This is an official CSD T-shirt (Annual) Design Contest sponsored by the [IS
 
 We especially encourage students/staff from CSD/ISTD to contribute your design, but **all SUTD members** are eligible and welcome to participate in this T-shirt design contest.
 
--   **SUTD members** includes: SUTD UG/PG Students, Professors, Staff, Researchers, Alumni.
+-   **SUTD members** includes: SUTD UG/PG Students, Faculty, Staff, Researchers, Alumni.
 
 ## Eligible Voters
 
@@ -37,17 +37,18 @@ The following timeline is our current estimate and it is still flexible, if you 
 
 -   `18 Oct 2021 (W6 Mon)` - Start Accepting Submissions
 -   `18 Nov 2021 (W10 Thu)` - Submission Deadline
--   `22 Nov ~ 6 Nov 2021 (W11)` - Voting Period (collecting T-shirt size info as well)
+-   `22 Nov ~ 26 Nov 2021 (W11)` - Voting Period (collecting T-shirt size info as well)
 -   `29 Nov 2021 (W12 Mon)` - Winner Announcement
--   `29 Nov ~ 3 Dec 2021 (W12)` - Finalizing Winner Design, Prepare for Production
+-   `29 Nov ~ 03 Dec 2021 (W12)` - Finalizing Winner Design, Prepare for Production
 -   `18 Dec 2021 ~ 23 Jan 2022 (Break + IAP)` - Making of T-shirts
--   `1 Feb 2022 (W2)` - Target T-shirt Distribution
+-   `01 Feb 2022 (W2)` - Target T-shirt Distribution
 
 ## Submission Guidelines
 
+-   Submit your design via this [Submission Form](https://forms.gle/arcvRDX9vYpQ3dqJA).
 -   Your submission should contain all source design files and at least two `jpeg`/`png` images showing the front and back of the T-shirt.
--   You may submit multiple versions of design.
+-   You may submit multiple design entries.
 -   You may consider design a logo for CSD, and stand a chance to make it official?
--   If your design incorporating SUTD's logo or any SUTD's official branding assets, please do not distort its original appearance and be aware that the final winning T-shirt design is subject to the school/pillar's approval. We will work with the winner to make minor adjustments if needed at the pre-production stage.
--   Please contact [@MarkHershey](https://t.me/MarkHershey) on telegram to make a submission or any inquiries regarding the contest.
--   You may download SUTD logo here.
+-   If your design incorporating SUTD's logo or any SUTD's official branding assets, please do not distort its original appearance and be aware that the final winning T-shirt design is subject to the school/pillar's approval. We will work with the winner to make minor adjustments if needed at the pre-production stage. You may download SUTD logo [[here]](resources/SUTD_LOGOs.zip).
+-   You could start your design on any T-shirt design template available online, we will post one here if we find a good one.
+-   Please contact [@MarkHershey](https://t.me/MarkHershey) on telegram for any inquiries regarding the contest.
