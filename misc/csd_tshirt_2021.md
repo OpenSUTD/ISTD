@@ -45,7 +45,7 @@ The following timeline is our current estimate and it is still flexible. If you 
 
 ## Submission Guidelines
 
--   Submit your design via this [Submission Form](https://forms.gle/arcvRDX9vYpQ3dqJA).
+-   Submit your design via this [Submission Form](https://forms.office.com/r/BmqC9KRvGV).
 -   Your submission should contain all source design files and at least two `jpeg`/`png` images showing the front and back of the T-shirt.
 -   You may submit multiple design entries.
 -   You may consider designing a logo for CSD, and stand a chance to make it official!
