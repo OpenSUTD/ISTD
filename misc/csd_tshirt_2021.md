@@ -50,5 +50,5 @@ The following timeline is our current estimate and it is still flexible. If you 
 -   You may submit multiple design entries.
 -   You may consider designing a logo for CSD, and stand a chance to make it official!
 -   If your design incorporates SUTD's logo or any of SUTD's official branding assets, please do not distort its original appearance and be aware that the final winning T-shirt design is subject to the school/pillar's approval. We will work with the winner to make minor adjustments if needed at the pre-production stage. You may download the relevant SUTD logos [[here]](resources/SUTD_LOGOs.zip).
--   You could start your design on any T-shirt design template available online, we will post one here if we find a good one.
+-   You could start your design on any T-shirt design template available online. We will post one here if we find a good one.
 -   Please contact [@MarkHershey](https://t.me/MarkHershey) on Telegram for any inquiries regarding the contest.
