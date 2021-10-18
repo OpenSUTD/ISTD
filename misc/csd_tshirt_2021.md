@@ -25,9 +25,9 @@ We especially encourage students/staff from CSD/ISTD to contribute your design, 
 
 ## Eligible Voters
 
--   **All CSD Juniors** (Class of 2022) (each person has 2 votes)
--   **Incoming CSD Sophomores** (Class of 2024) (each person has 1 vote)
--   Graduate Students/Staff/Researchers <u>affiliated to ISTD Pillar</u> (each person has 1 vote)
+-   **All CSD Juniors** (Class of 2022)
+-   **Incoming CSD Sophomores** (Class of 2024)
+-   Graduate Students/Staff/Researchers <u>affiliated to ISTD Pillar</u>
 
 \*\* Eligible voters who actually vote will also receive a free CSD T-shirt in the spring of 2022.
 
