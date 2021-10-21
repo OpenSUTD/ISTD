@@ -29,7 +29,7 @@ We especially encourage students/staff from CSD/ISTD to contribute your design, 
 -   **Incoming CSD Sophomores** (Class of 2024)
 -   Graduate Students/Staff/Researchers <u>affiliated to ISTD Pillar</u>
 
-\*\* Eligible voters who actually vote will also receive a free CSD T-shirt in the spring of 2022.
+\*\* Eligible voters who actually vote will receive the new CSD T-shirt (for free) in the spring of 2022.
 
 ## Timeline
 
@@ -43,12 +43,17 @@ The following timeline is our current estimate and it is still flexible. If you 
 -   `18 Dec 2021 ~ 23 Jan 2022 (Break + IAP)` - Making of T-shirts
 -   `01 Feb 2022 (W2)` - Target T-shirt Distribution
 
-## Submission Guidelines
+## Design Guidelines
 
--   Submit your design via this [Submission Form](https://forms.office.com/r/BmqC9KRvGV).
--   Your submission should contain all source design files and at least two `jpeg`/`png` images showing the front and back of the T-shirt.
--   You may submit multiple design entries.
--   You may consider designing a logo for CSD, and stand a chance to make it official!
+-   Please only use colors listed under the 'COTTON' tab on [this page](https://theteeinkers.com/colorSize).
+-   There is no hard limit to the number of colors you can use, but try to use as few colors as possible, as more colors may result in higher printing costs.
 -   If your design incorporates SUTD's logo or any of SUTD's official branding assets, please do not distort its original appearance and be aware that the final winning T-shirt design is subject to the school/pillar's approval. We will work with the winner to make minor adjustments if needed at the pre-production stage. You may download the relevant SUTD logos [[here]](resources/SUTD_LOGOs.zip).
 -   You could start your design on any T-shirt design template available online. We will post one here if we find a good one.
+
+## Submission Guidelines
+
+-   You may submit multiple design entries for voting (but not too many!).
+-   You may consider designing an unofficial logo for CSD.
+-   Submit your design via this [Submission Form](https://forms.office.com/r/BmqC9KRvGV).
+-   Your submission should contain all source design files and at least two `jpeg`/`png` images (for each entry) showing the front and back of the T-shirt.
 -   Please contact [@MarkHershey](https://t.me/MarkHershey) on Telegram for any inquiries regarding the contest.
