@@ -35,7 +35,7 @@ We especially encourage students/staff from CSD/ISTD to contribute your design, 
 
 The following timeline is our current estimate and it is still flexible. If you are contributing your design in the contest and would like more time to finish your design, please don't hesitate to let us know.
 
--   `18 Oct 2021 (W6 Mon)` - Start Accepting Submissions
+-   `18 Oct 2021 (W6 Mon)` - Accepting Submissions
 -   `18 Nov 2021 (W10 Thu)` - Submission Deadline
 -   `22 Nov ~ 26 Nov 2021 (W11)` - Voting Period (collecting T-shirt size info as well)
 -   `29 Nov 2021 (W12 Mon)` - Winner Announcement
@@ -46,14 +46,16 @@ The following timeline is our current estimate and it is still flexible. If you 
 ## Design Guidelines
 
 <!-- -   Please only use colors listed under the 'COTTON' tab on [this page](https://theteeinkers.com/colorSize). -->
--   There is no hard limit to the number of colors you can use, but try to use as few colors as possible, preferably under 5, as more colors may result in higher printing costs.
+
+-   Try to use as few colors as possible, preferably less than 5, as more colors may result in higher printing costs.
 -   If your design incorporates SUTD's logo or any of SUTD's official branding assets, please do not distort its original appearance and be aware that the final winning T-shirt design is subject to the school/pillar's approval. We will work with the winner to make minor adjustments if needed at the pre-production stage. You may download the relevant SUTD logos [[here]](resources/SUTD_LOGOs.zip).
+-   You may consider designing an unofficial logo for CSD. Previously, we had [[this]](https://istd.opensutd.org/assets/img/istd-logo.png) unofficial ISTD logo also designed by a student.
+-   Click [[here]](resources/istd_tshirt.pdf) to view the existing ISTD T-shirt design for reference.
 -   You could start your design on any T-shirt design template available online. We will post one here if we find a good one.
 
 ## Submission Guidelines
 
 -   You may submit multiple design entries for voting (but not too many!).
--   You may consider designing an unofficial logo for CSD.
--   Submit your design via this [Submission Form](https://forms.gle/7Qo49Ymy4pq4zFh16).
--   Your submission should contain all source design files and at least two `jpeg`/`png` images (for each entry) showing the front and back of the T-shirt.
+-   Your submission should contain all design source files (e.g. `.ai`/`.psd`) and at least two `jpeg`/`png` images (for each entry) showing the front and back of the T-shirt.
+-   Zip everything together and submit your design via this [[submission form]](https://forms.gle/7Qo49Ymy4pq4zFh16).
 -   Please contact [@MarkHershey](https://t.me/MarkHershey) on Telegram for any inquiries regarding the contest.
