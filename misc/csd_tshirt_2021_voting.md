@@ -1,4 +1,36 @@
-# CSD T-shirt Designs
+---
+title: "CSD T-shirt Voting"
+description: "CSD T-shirt Design Contest 2021 Submission Showcase and Voting"
+---
+
+# CSD T-shirt Voting
+
+## Important Notes
+
+-   Each voter will cast 3 votes, please vote for your first, second and third favorite design.
+-   Each person's first vote will count as 2 points, second vote as 1.5 points and third vote as 1 point. The design with the highest total points will be the winner.
+-   You can vote for the same design in all three ballots and the points will accumulate.
+-   We will collect information about your T-shirt size in the voting form. All voters will receive a CSD t-shirt. If you don't vote, we won't know your size.
+-   Please vote <a href="https://forms.office.com/r/BmqC9KRvGV" target="_blank" rel="noopener noreferrer"><b>[here]</b></a>.
+
+### Eligible Voters
+
+-   **All CSD Juniors** (Class of 2022)
+-   **Incoming CSD Sophomores** (Class of 2024)
+-   Graduate Students/Faculty/Staff/Researchers <u>affiliated to ISTD Pillar</u>
+
+\*\* Eligible voters who actually vote will receive the new CSD T-shirt (for free) in the spring of 2022.
+
+### T-shirt Size
+
+You may refer to the following table or <a href="https://theteeinkers.com/img/colorSize/sizeChart20170211.png" target="_blank" rel="noopener noreferrer">[here]</a> for the size of the T-shirt:
+
+![](resources/tshirt_size.png)
+
+## Submission Showcase
+
+-   This page is better viewed on desktops.
+-   Right click on image and "Open image in new tab" to view full-size image.
 
 <table class="table">
   <thead>

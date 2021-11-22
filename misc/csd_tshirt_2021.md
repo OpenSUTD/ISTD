@@ -36,7 +36,7 @@ We especially encourage students/staff from CSD/ISTD to contribute your design, 
 The following timeline is our current estimate and it is still flexible. If you are contributing your design in the contest and would like more time to finish your design, please don't hesitate to let us know.
 
 -   `18 Oct 2021 (W6 Mon)` - Accepting Submissions
--   `18 Nov 2021 (W10 Thu)` - Submission Deadline
+-   `21 Nov 2021 (W10 Sun)` - Submission Deadline
 -   `22 Nov ~ 26 Nov 2021 (W11)` - Voting Period (collecting T-shirt size info as well)
 -   `29 Nov 2021 (W12 Mon)` - Winner Announcement
 -   `29 Nov ~ 03 Dec 2021 (W12)` - Finalizing Winner Design, Prepare for Production
