@@ -151,7 +151,7 @@ You may refer to the following table or <a href="https://theteeinkers.com/img/co
       <td><img src="resources/cotestant_designs/G2-back.png" alt="G2" width="350" height="auto"></td>
     </tr>
     <tr>
-      <th scope="row">B3</th>
+      <th scope="row">G3</th>
       <td><img src="resources/cotestant_designs/G3-front.png" alt="G3" width="350" height="auto"></td>
       <td><img src="resources/cotestant_designs/G3-back.png" alt="G3" width="350" height="auto"></td>
     </tr>
