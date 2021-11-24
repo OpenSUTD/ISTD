@@ -37,8 +37,8 @@ The following timeline is our current estimate and it is still flexible. If you 
 
 -   `18 Oct 2021 (W6 Mon)` - Accepting Submissions
 -   `21 Nov 2021 (W10 Sun)` - Submission Deadline
--   `22 Nov ~ 26 Nov 2021 (W11)` - Voting Period (collecting T-shirt size info as well)
--   `29 Nov 2021 (W12 Mon)` - Winner Announcement
+-   `24 Nov ~ 28 Nov 2021 (W11)` - Voting Period -> [Vote Here](https://istd.opensutd.org/misc/csd_tshirt_2021_voting.html)
+-   `1 Dec 2021 (W12 Wed)` - Winner Announcement
 -   `29 Nov ~ 03 Dec 2021 (W12)` - Finalizing Winner Design, Prepare for Production
 -   `18 Dec 2021 ~ 23 Jan 2022 (Break + IAP)` - Making of T-shirts
 -   `01 Feb 2022 (W2)` - Target T-shirt Distribution
