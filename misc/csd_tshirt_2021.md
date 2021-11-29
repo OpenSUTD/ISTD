@@ -10,8 +10,8 @@ PS: This is an official CSD T-shirt (Annual) Design Contest sponsored by the [IS
 
 -   Top Prize - **S$200 Cash Prize**
     -   Top Prize is for the T-shirt design that receives the highest votes from eligible voters.
--   First runner-up - **Up to S$100 Cash / Voucher (TBD)**
--   Second runner-up - **Up to S$50 Cash / Voucher (TBD)**
+-   First runner-up - **S$60 Cash Prize**
+-   Second runner-up - **S$40 Cash Prize**
     -   Prizes for the runner-ups will be determined by the quality of the submissions and the number of votes they received.
 -   Participation Award
     -   All submitted designs will be showcased on the ISTD Student Board website, and will be considered to join subsequent years' T-shirt design voting round again.
@@ -37,8 +37,8 @@ The following timeline is our current estimate and it is still flexible. If you 
 
 -   `18 Oct 2021 (W6 Mon)` - Accepting Submissions
 -   `21 Nov 2021 (W10 Sun)` - Submission Deadline
--   `24 Nov ~ 28 Nov 2021 (W11)` - Voting Period -> [Vote Here](https://istd.opensutd.org/misc/csd_tshirt_2021_voting.html)
--   `1 Dec 2021 (W12 Wed)` - Winner Announcement
+-   `24 Nov ~ 29 Nov 2021 (W11)` - Voting Period -> [Vote Here](https://istd.opensutd.org/misc/csd_tshirt_2021_voting.html)
+-   `1 Dec 2021 (W12 Wed)` - Winner Announcement -> [View Here](https://istd.opensutd.org/misc/csd_tshirt_2021_voting.html#voting-results)
 -   `29 Nov ~ 03 Dec 2021 (W12)` - Finalizing Winner Design, Prepare for Production
 -   `18 Dec 2021 ~ 23 Jan 2022 (Break + IAP)` - Making of T-shirts
 -   `01 Feb 2022 (W2)` - Target T-shirt Distribution
@@ -58,4 +58,3 @@ The following timeline is our current estimate and it is still flexible. If you 
 -   You may submit multiple design entries for voting (but not too many!).
 -   Your submission should contain all design source files (e.g. `.ai`/`.psd`) and at least two `jpeg`/`png` images (for each entry) showing the front and back of the T-shirt.
 -   Zip everything together and submit your design via this [[submission form]](https://forms.gle/7Qo49Ymy4pq4zFh16).
--   Please contact [@MarkHershey](https://t.me/MarkHershey) on Telegram for any inquiries regarding the contest.

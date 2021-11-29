@@ -11,7 +11,7 @@ description: "CSD T-shirt Design Contest 2021 Submission Showcase and Voting"
 -   Each person's first vote will count as 2 points, second vote as 1.5 points and third vote as 1 point. The design with the highest total points will be the winner.
 -   You can vote for the same design in all three ballots and the points will accumulate.
 -   We will collect information about your T-shirt size in the voting form. All voters will receive a CSD t-shirt. If you don't vote, we won't know your size.
--   Please vote for your favorite designs & register for a free CSD t-shirt <a href="https://forms.office.com/r/BmqC9KRvGV" target="_blank" rel="noopener noreferrer"><b>[here]</b></a>.
+-   Please vote for your favorite designs & register for a free CSD t-shirt <a href="https://forms.office.com/r/BmqC9KRvGV" target="_blank" rel="noopener noreferrer">[here]</a> (Ended).
 
 ### Eligible Voters
 
@@ -32,15 +32,15 @@ You may refer to the following table or <a href="https://theteeinkers.com/img/co
 -   This page is better viewed on desktops.
 -   Right click on the image and "Open image in new tab" to view full-size image.
 
-|  #  | Designer           |
-| :-: | :----------------- |
-|  A  | @foolishprovidence |
-|  B  | @kitkatyj          |
-|  C  | @o_hnJ             |
-|  D  | @catbun            |
-|  E  | @sean_gunawan      |
-|  F  | @oldsparrow        |
-|  G  | @hobo_chow         |
+|  #  | Designer           |                  |
+| :-: | :----------------- | :--------------- |
+|  A  | @foolishprovidence |                  |
+|  B  | @kitkatyj          |                  |
+|  C  | @o_hnJ             |                  |
+|  D  | @catbun            | First runner-up  |
+|  E  | @sean_gunawan      |                  |
+|  F  | @oldsparrow        | **Winner**       |
+|  G  | @hobo_chow         | Second runner-up |
 
 <hr/>
 
@@ -159,3 +159,61 @@ You may refer to the following table or <a href="https://theteeinkers.com/img/co
 </table>
 
 Please vote for your favorite designs & register for a free CSD t-shirt <a href="https://forms.office.com/r/BmqC9KRvGV" target="_blank" rel="noopener noreferrer"><b>[here]</b></a>
+
+## Voting results
+
+Valid votes collected from `23 Nov 2021 22:30:48` to `30 Nov 2021 1:40:25`.
+
+For transparency, you may view the anonymized raw result here:
+
+-   [`voting_data.csv`](resources/voting_data.csv)
+
+```python
+from collections import Counter
+import pandas as pd
+
+df = pd.read_csv("voting_data.csv")
+header = df.columns.tolist()
+data = df.values.tolist()
+
+vote_1_idx = header.index("Your Favorite Design")
+vote_2_idx = header.index("Your Second-favorite Design")
+vote_3_idx = header.index("Your Third-favorite Design")
+
+vote_1_counter = Counter([i[vote_1_idx] for i in data])
+vote_2_counter = Counter([i[vote_2_idx] for i in data])
+vote_3_counter = Counter([i[vote_3_idx] for i in data])
+
+result = {}
+
+for i in vote_1_counter.most_common():
+    result[i[0]] = result.get(i[0], 0) + i[1] * 2
+for i in vote_2_counter.most_common():
+    result[i[0]] = result.get(i[0], 0) + i[1] * 1.5
+for i in vote_3_counter.most_common():
+    result[i[0]] = result.get(i[0], 0) + i[1] * 1
+
+for i in sorted(result.keys(), key=lambda x: result[x], reverse=True)[:6]:
+    print(f"{i}: {result[i]}")
+print("...")
+```
+
+STDOUT:
+
+```bash
+F1: 180.0
+F2: 170.0
+F4: 154.0
+F3: 139.0
+D1: 132.5
+G1: 93.0
+F6: 89.5
+F5: 88.5
+E1: 87.0
+G3: 75.0
+...
+```
+
+**Congratulations to the winning design F1!**
+
+Cash prizes will go to designer F, D, G.
