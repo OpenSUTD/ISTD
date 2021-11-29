@@ -50,6 +50,11 @@ def main():
     result = parse_votes(data)
     print_ranking(result)
 
+    # x = {"A":0, "B":0, "C":0, "D":0, "E":0, "F":0, "G":0}
+    # for i in result.keys():
+    #     x[i[0]] += result[i]
+    # print(x)
+
 
 if __name__ == "__main__":
     main()

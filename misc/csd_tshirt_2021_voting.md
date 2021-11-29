@@ -158,7 +158,7 @@ You may refer to the following table or <a href="https://theteeinkers.com/img/co
   </tbody>
 </table>
 
-Please vote for your favorite designs & register for a free CSD t-shirt <a href="https://forms.office.com/r/BmqC9KRvGV" target="_blank" rel="noopener noreferrer"><b>[here]</b></a>
+<!-- Please vote for your favorite designs & register for a free CSD t-shirt <a href="https://forms.office.com/r/BmqC9KRvGV" target="_blank" rel="noopener noreferrer"><b>[here]</b></a> -->
 
 ## Voting results
 
@@ -193,7 +193,7 @@ for i in vote_2_counter.most_common():
 for i in vote_3_counter.most_common():
     result[i[0]] = result.get(i[0], 0) + i[1] * 1
 
-for i in sorted(result.keys(), key=lambda x: result[x], reverse=True)[:6]:
+for i in sorted(result.keys(), key=lambda x: result[x], reverse=True)[:10]:
     print(f"{i}: {result[i]}")
 print("...")
 ```
